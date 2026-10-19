@@ -1,0 +1,7 @@
+https://catalog.data.gov/dataset/u-s-chronic-disease-indicators-10d93?from_hint=eyJxIjoiY2FuY2VyIHRvYmFjY28iLCJzb3J0IjoicmVsZXZhbmNlIiwiaGFzX2Rvd25sb2FkIjoidHJ1ZSJ9
+
+
+U.S. Chronic Disease Indicators
+Published by Centers for Disease Control and Prevention | U.S. Department of Health & Human Services | Catalog Last Checked: September 28, 2026 at 08:08 PM | Dataset Last Updated: September 22, 2026
+
+CDC's Division of Population Health provides a cross-cutting set of 115 indicators developed by consensus among CDC, the Council of State and Territorial Epidemiologists, and the National Association of Chronic Disease Directors. These indicators allow states and territories to uniformly define, collect, and report chronic disease data that are important to public health practice in their area. In addition to providing access to state-specific indicator data, the CDI web site serves as a gateway to additional information and data resources.
